@@ -18,3 +18,7 @@
 **6-Slider**
 
 ![image](https://user-images.githubusercontent.com/60480896/169753036-4c83824c-d5d5-4af0-bb1e-8183d0c1fdec.png)
+
+**7-Lorem-ipsum**
+
+![image](https://user-images.githubusercontent.com/60480896/169847145-34c6cc67-853d-4fd3-a49b-d050fbe9f5f8.png)
