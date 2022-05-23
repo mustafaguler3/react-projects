@@ -15,3 +15,6 @@
 
 ![image](https://user-images.githubusercontent.com/60480896/169710385-8504fbcf-919b-4fbf-9789-a295327d6d27.png)
 
+**6-Slider**
+
+![image](https://user-images.githubusercontent.com/60480896/169753036-4c83824c-d5d5-4af0-bb1e-8183d0c1fdec.png)
