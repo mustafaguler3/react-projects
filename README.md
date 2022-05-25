@@ -26,3 +26,7 @@
 **8- Grocery**
 
 ![image](https://user-images.githubusercontent.com/60480896/170115950-a9e4d159-3a78-455d-bb69-e55cc5073473.png)
+
+**7-Navbar**
+
+![image](https://user-images.githubusercontent.com/60480896/170354590-95abb84a-b9f2-43c6-96bf-aaa9233d53cf.png)
